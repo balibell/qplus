@@ -1,0 +1,11 @@
+c:\users\think\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\bin\Debug\QQPlus.WeiboSync.dll
+c:\users\think\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\bin\Debug\QQPlus.WeiboSync.pdb
+c:\users\think\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\bin\Debug\QQPlus.Framework.dll
+c:\users\think\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\bin\Debug\QQPlus.Framework.xml
+c:\users\think\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\obj\Debug\QQPlus.WeiboSync.csprojResolveAssemblyReference.cache
+c:\users\think\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\obj\Debug\QQPlus.WeiboSync.dll
+c:\users\think\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\obj\Debug\QQPlus.WeiboSync.pdb
+C:\QQPlus\Plugin\QQPlus.WeiboSync.dll
+C:\QQPlus\Plugin\QQPlus.WeiboSync.pdb
+C:\Users\THINK\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\obj\Debug\QQPlus.WeiboSync.ConsoleForm.resources
+C:\Users\THINK\documents\visual studio 2015\Projects\QQPlus.WeiboSync\QQPlus.WeiboSync\obj\Debug\QQPlus.WeiboSync.csproj.GenerateResource.Cache
