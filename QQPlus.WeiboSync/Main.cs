@@ -86,7 +86,7 @@ namespace QQPlus.WeiboSync
         public override bool Start()
         {
 
-            MapGroupWBOpen.Add(GROUP_DUITANG, true);
+            MapGroupWBOpen.Add(GROUP_DUITANG, false);
             MapGroupWBOpen.Add(GROUP_ZHOUZI, true);
             MapGroupWBOpen.Add(GROUP_TEST, true);
 
